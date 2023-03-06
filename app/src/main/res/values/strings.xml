@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Uber Fare App</string>
+
+
+
+    <string-array name="typeCar">
+        <item>Sedan</item>
+        <item>SUV</item>
+        <item>Smart Car</item>
+    </string-array>
+</resources>
